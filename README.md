@@ -1,6 +1,9 @@
 # Fruits Application
 
-
+## Environment 
+- Instalar Python: https://www.python.org/
+- Instalar AWS SDK: pip install boto3
+- 
 
 
 
